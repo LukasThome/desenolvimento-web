@@ -1,1 +1,1 @@
-# desenolvimento-web
+# Repositório da disciplina de desenvolvimento web
